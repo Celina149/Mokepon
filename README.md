@@ -1,5 +1,6 @@
 ## Bienvenido al repositorio de el Juego Mokepon!
 **Instalacion**
+
 Debes tener instalado:
 - Editor de codigo (De preferencia Visual Studio Code).
 Una vez clonado el proyecto se debera abrir en el editor de codigo,en este caso Visual Studio Code.
