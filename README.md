@@ -1,4 +1,4 @@
-## Bienvenido al repositorio del Juego Mokepon!
+## Bienvenido al repositorio del Juego Mokepon! 🐼
 **Instalación**
 
 Debes tener instalado:
